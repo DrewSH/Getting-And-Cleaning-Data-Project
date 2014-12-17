@@ -13,8 +13,8 @@ You should create one R script called run_analysis.R that does the following.
 ## Additional Steps Completed Within Code
 1. A new project folder is created for this program.
 2. Human Activity Recognition Using Smartphones Data Set (https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) is downloaded and unzipped automatically.
-3. End result tidy text file is exported to the project folder automatically created above.
+3. End result, "tidy" data, is exported to the project folder as a text file automatically.
 
 ## Steps to work on this course project
 1. Put ```run_analysis.R``` in your current work directory.
-2. Run ```source("run_analysis.R")```, then it will generate a new file ```tiny_data.txt``` in the project folder, within your working directory.
+2. Run ```source("run_analysis.R")```, then it will generate a new file ```tiny_combined.txt``` in the project folder, within your working directory.
