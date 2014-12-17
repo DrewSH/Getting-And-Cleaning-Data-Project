@@ -17,4 +17,4 @@ You should create one R script called run_analysis.R that does the following.
 
 ## Steps to work on this course project
 1. Put ```run_analysis.R``` in your current work directory.
-2. Run ```source("run_analysis.R")```, then it will generate a new file ```tiny_combined.txt``` in the project folder, within your working directory.
+2. Run ```source("run_analysis.R")```, then it will generate a new file ```tidy_data.txt``` in the project folder, within your working directory.
